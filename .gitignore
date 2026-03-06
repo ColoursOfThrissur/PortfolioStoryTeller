@@ -1,0 +1,63 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+.coverage
+htmlcov/
+*.egg-info/
+dist/
+build/
+
+# Output directories
+output/reports/*.pdf
+output/data/*.xlsx
+output/cache/
+*.log
+
+# Input files (client data)
+input/portfolios/*.xlsx
+input/portfolios/*.csv
+input/transactions/*.xlsx
+input/transactions/*.csv
+!input/portfolios/sample_portfolio.csv
+!input/portfolios/john_mitchell_q4_2025.xlsx
+
+# Node.js (Frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+frontend/dist/
+frontend/build/
+agentic-frontend/dist/
+agentic-frontend/build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+.temp/
