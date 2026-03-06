@@ -1,0 +1,594 @@
+2026-03-05 14:07:59 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:08:06 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:08:07 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:08:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:08:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:08:07 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:08:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:08:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:08:08 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:12:16 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:12:21 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:12:22 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:13:58 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:14:02 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:14:03 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:14:03 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:14:03 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:14:03 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:14:03 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:14:03 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:14:04 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:15:14 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:15:18 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:15:19 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:15:20 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:16:24 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:16:28 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:16:29 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:16:29 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:16:29 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:16:29 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:16:29 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:16:29 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:16:30 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:18:04 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:18:09 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:18:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:18:11 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:24:34 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:24:39 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:24:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:24:41 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:25:49 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:25:53 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:25:53 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:25:53 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:25:53 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 251 days of historical data
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:25:54 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:25:55 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:29:51 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:29:55 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:29:56 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:29:57 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:29:57 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:29:57 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:29:57 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:29:57 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:29:57 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:29:57 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 14:37:01 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 14:37:05 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:37:06 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 251 days of historical data
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 251 days of historical data
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 251 days of historical data
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:07 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 251 days of historical data
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:08 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 251 days of historical data
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:09 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:10 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:11 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:12 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:13 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 14:37:14 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 5 days of historical data
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 5 days of historical data
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 5 days of historical data
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 5 days of historical data
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 5 days of historical data
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 14:37:15 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 14:37:16 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 14:37:16 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 14:37:16 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 14:37:16 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 15:20:25 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 15:20:30 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 15:20:31 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 15:22:32 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 15:22:36 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:22:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 251 days of historical data
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 251 days of historical data
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 251 days of historical data
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 251 days of historical data
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 251 days of historical data
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 251 days of historical data
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 251 days of historical data
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 251 days of historical data
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 251 days of historical data
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 251 days of historical data
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 251 days of historical data
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 251 days of historical data
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:41 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 5 days of historical data
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 5 days of historical data
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 5 days of historical data
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 5 days of historical data
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:22:44 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:22:45 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 5 days of historical data
+2026-03-05 15:22:45 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:22:45 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:22:45 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 15:22:45 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:22:45 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:22:45 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 15:26:28 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 15:26:33 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 124 days of historical data
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 124 days of historical data
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 124 days of historical data
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 124 days of historical data
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 124 days of historical data
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:26:34 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 251 days of historical data
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 251 days of historical data
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 251 days of historical data
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 251 days of historical data
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:35 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 251 days of historical data
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-03-05 to 2026-03-04
+2026-03-05 15:26:36 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:26:37 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 15:26:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:26:37 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 15:26:37 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:37 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:26:38 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 15:26:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:26:38 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 15:26:38 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:38 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:39 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:40 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 1255 days of historical data
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 1255 days of historical data
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 1255 days of historical data
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:41 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 1255 days of historical data
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 1255 days of historical data
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 1255 days of historical data
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2021-03-05 to 2026-03-04
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:184 -   AAPL: Fetched 5 days of historical data
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $262.52
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:184 -   MSFT: Fetched 5 days of historical data
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:26:42 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $405.20
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:184 -   GOOGL: Fetched 5 days of historical data
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $303.13
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:184 -   NVDA: Fetched 5 days of historical data
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $183.04
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:184 -   AMZN: Fetched 5 days of historical data
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2026-02-26 to 2026-03-04
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $216.82
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:184 -   ^GSPC: Fetched 124 days of historical data
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:185 -   Date range: 2025-09-05 to 2026-03-04
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:186 -   Latest close: $6869.50
+2026-03-05 15:26:43 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 16:45:01 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 16:45:09 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 16:48:15 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 16:48:23 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 16:48:27 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 16:52:45 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 16:52:53 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 16:52:57 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 16:55:11 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
+2026-03-05 16:55:22 - portfolio_story - INFO - mcp_service.py:26 - Initialized MCP Market Data Service
+2026-03-05 16:55:27 - portfolio_story - INFO - mcp_service.py:58 - MCP session connected
+2026-03-05 17:09:57 - portfolio_story - INFO - mcp_service.py:74 - MCP session closed
