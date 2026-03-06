@@ -1,0 +1,51 @@
+# Market Data
+finnhub-python==2.4.19
+
+# MCP (Model Context Protocol)
+mcp
+
+# Data Processing
+pandas
+numpy
+openpyxl
+pydantic>=2.0,<3.0
+pydantic-settings>=2.0,<3.0
+
+# Analytics
+scipy
+quantstats
+
+# AI/NLP
+openai
+tiktoken
+
+# Visualization
+matplotlib
+plotly
+seaborn
+
+# PDF Generation
+reportlab
+jinja2
+
+# Utilities
+python-dotenv
+pyyaml
+aiohttp
+tenacity
+
+# Testing
+pytest
+pytest-asyncio
+
+# Web UI
+streamlit
+
+# API Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Web Scraping (for Google Finance)
+beautifulsoup4
+requests
